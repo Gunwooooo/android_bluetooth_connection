@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndBluetooth</string>
+    <string name="scan_button">Scan</string>
+</resources>
